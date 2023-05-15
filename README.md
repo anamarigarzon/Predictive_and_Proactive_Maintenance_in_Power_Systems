@@ -22,12 +22,6 @@ The aim of the project is to detect failure in the equipment through Computer Vi
 - [Technology 2]: [Brief description of technology 2 and its role in the project].
 - [Technology 3]: [Brief description of technology 3 and its role in the project].
 
-## Installation
-
-1. Clone this repository on your local machine.
-2. Run the command `npm install` to install the dependencies.
-3. [Other installation steps, if any].
-
 
 ## Contributors
 
