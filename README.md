@@ -7,9 +7,9 @@ The aim of the project is to detect failure in the equipment through Computer Vi
 
 ## Key Features
 
-- distribution systems.
-- neural network.
-- fault engine.
+- Distribution systems.
+- Neural network.
+- Fault engine.
 - Fault location.
 
 ## Screenshots
