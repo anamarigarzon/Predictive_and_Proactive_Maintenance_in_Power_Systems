@@ -7,13 +7,12 @@ The aim of the project is to detect failure in the equipment through Computer Vi
 
 ## Key Features
 
-- [Feature 1]: [distribution systems].
-- [Feature 2]: [neural network].
-- [Feature 3]: [fault engine].
-- [Feature 4]: [Fault location].
+- distribution systems.
+- neural network.
+- fault engine.
+- Fault location.
 
 ## Screenshots
-
 
 
 ## Technologies Used
@@ -27,30 +26,20 @@ The aim of the project is to detect failure in the equipment through Computer Vi
 
 The following individuals have contributed to this project:
 
-- [David F. Celeita]
-- [Ana Maria Garzon]
-- [Natalia Laiton]
-- [Victor Sicacha]
+- David F. Celeita
+- Ana Maria Garzon
+- Natalia Laiton
+- Victor Sicacha
 
 ## Institutions
 
 The following institutions are involved in this project:
 
-- [Universidad del Rosario]
+- Universidad del Rosario
 - [Institution 2]
-
-
-## Contribution
-
-We appreciate and welcome community contributions to improve this project. If you wish to contribute, please follow these steps:
-
-1. Fork this repository.
-2. Create a new branch for your contribution: `git checkout -b feature/new-feature`.
-3. Make your changes and commit them with descriptive messages.
-4. Submit a pull request for us to review your changes.
 
 ## License
 
-[Boost Software License 1.0].
+Boost Software License 1.0.
 
 
