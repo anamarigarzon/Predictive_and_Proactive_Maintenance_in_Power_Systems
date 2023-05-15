@@ -1,4 +1,4 @@
-# Project:IR Image Analysis in Power Systems
+# Project: IR Image Analysis in Power Systems
 
 ## Description
 
