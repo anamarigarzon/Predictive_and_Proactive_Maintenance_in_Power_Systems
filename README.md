@@ -1,8 +1,8 @@
-# Project: IR Image Analysis in Power Systems
+# Project: Predictive and Proactive Maintenance in Power Systems
 
 ## Description
 
-This repository contains the analysis of thermographic infrared images from diverse power systems.
+This repository contains the analysis of predictive and proactive maintenance in power systems. It includes fault simulation, ML fault prediction, thermographic infrared images analysis from diverse power systems.
 The aim of the project is to detect failure in the equipment through Computer Vision and Machine Learning methods. 
 
 ## Key Features
