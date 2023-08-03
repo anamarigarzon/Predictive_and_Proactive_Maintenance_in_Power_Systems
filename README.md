@@ -36,7 +36,6 @@ The following individuals have contributed to this project:
 The following institutions are involved in this project:
 
 - Universidad del Rosario
-- [Institution 2]
 
 ## License
 
